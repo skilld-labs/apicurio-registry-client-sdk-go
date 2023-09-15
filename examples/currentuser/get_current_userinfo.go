@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Apicurio/apicurio-registry-client-sdk-go"
+	registryclient "github.com/skilld-labs/apicurio-registry-client-sdk-go"
 )
 
 func main() {
