@@ -1,4 +1,4 @@
-module github.com/Apicurio/apicurio-registry-client-sdk-go
+module github.com/skilld-labs/apicurio-registry-client-sdk-go
 
 go 1.17
 
